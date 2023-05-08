@@ -2,3 +2,5 @@
 
 * Lex Luthor
 * Joker
+* Deadshot
+* Flash Reverso
