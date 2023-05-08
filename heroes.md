@@ -5,5 +5,6 @@
 * Aquaman
 * Mujer Maravilla
 * Linterna Verde
-* Robin y batibatidora
+* Robin y Batichica
 * Batiperro
+
