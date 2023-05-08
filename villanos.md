@@ -4,3 +4,4 @@
 * Joker
 * Deadshot
 * Flash Reverso
+* Doonsday
