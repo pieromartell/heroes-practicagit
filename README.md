@@ -1,4 +1,4 @@
-## motivo
+## Objetivos del repositorio
 
 Este repositorio sirve para probar cosas
 
