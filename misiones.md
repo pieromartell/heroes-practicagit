@@ -4,3 +4,6 @@
 3. Buscar mas mienbros para la liga
 4. Acabar con el plan de Darkseid
 5. Acabar con el plan de Brainiac
+4. Luchar contra Darkseid
+5. Luchar contra Brainiac
+
