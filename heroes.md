@@ -7,4 +7,5 @@
 * Linterna Verde
 * Robin y Batichica
 * Batiperro
+* Ronim Wilians
 
